@@ -50,4 +50,4 @@ This is the page you'll see when you click on "More Details" for any country. Th
   [country-emoji]: <https://www.npmjs.com/package/country-emoji>
   [axios]: <https://www.npmjs.com/package/axios>
   [covid-19_api]: <https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/>
-  [repo]: <https://github.com/RKSM-GIT/interview-tracker>
+  [repo]: <https://github.com/RKSM-GIT/covid-bulletin>
